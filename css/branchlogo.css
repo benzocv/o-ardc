@@ -1,0 +1,1884 @@
+.c1 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom: 3%;
+	left: 2%;
+}
+
+.c2 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top: 50%;
+	left:7%;
+}
+
+.c3 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:5%;
+	right:25%;
+}
+
+.c4 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:10%;
+	right:5%;
+}
+
+.c5 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:12%;
+	left:5%;
+}
+
+.c6 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	right:7%;
+}
+
+.c7 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:24%;
+	left:17%;
+}
+
+.c8 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:45%;
+	right:15%;
+}
+
+.c9 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:14%;
+	right:25%;
+}
+
+.c10 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecom;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	left:25%;
+}
+
+@media only screen and (max-width:1380px) {
+	.c1 {
+		height: 75px;
+			}
+	.c2 {
+		height: 75px;
+		
+	}
+	.c3 {
+		height: 75px;
+		
+	}
+	.c4 {
+		height: 75px;
+		
+	}
+	.c5 {
+		height: 75px;
+		
+	}
+	.c6 {
+		height: 75px;
+	
+	}
+	.c7 {
+		height: 75px;
+		
+	}
+	.c8 {
+		height: 75px;
+	
+	}
+	.c9 {
+		height: 75px;
+	
+	}
+	.c10 {
+		height: 75px;
+		
+	}
+}
+
+@media only screen and (max-width:1150px) {
+	.c1 {
+		height: 60px;
+	
+	}
+	.c2 {
+		height: 60px;
+	
+	}
+	.c3 {
+		height: 60px;
+		
+	}
+	.c4 {
+		height: 60px;
+		
+	}
+	.c5 {
+		height: 60px;
+	
+	}
+	.c6 {
+		height: 60px;
+		
+	}
+	.c7 {
+		height: 60px;
+		
+	}
+	.c8 {
+		height: 60px;
+		
+	}
+	.c9 {
+		height: 60px;
+		
+	}
+	.c10 {
+		height: 60px;
+	
+	}
+}
+
+@media only screen and (max-width:950px) {
+	.c1 {
+		height: 50px;
+
+	}
+	.c2 {
+		height: 50px;
+	
+	}
+	.c3 {
+		height: 50px;
+	
+	}
+	.c4 {
+		height: 50px;
+	
+	}
+	.c5 {
+		height: 50px;
+	
+	}
+	.c6 {
+		height: 50px;
+		
+	}
+	.c7 {
+		height: 50px;
+	
+	}
+	.c8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.c9 {
+		height: 50px;
+		
+	}
+	.c10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:780px) {
+	.c1 {
+		height: 50px;
+	
+	}
+	.c2 {
+		height: 50px;
+	
+	}
+	.c3 {
+		height: 50px;
+	
+	}
+	.c4 {
+		height: 50px;
+	
+	}
+	.c5 {
+		height: 50px;
+		
+	}
+	.c6 {
+		height: 50px;
+		
+	}
+	.c7 {
+		height: 50px;
+		
+	}
+	.c8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.c9 {
+		height: 50px;
+		
+	}
+	.c10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:650px) {
+	.c1 {
+		height: 50px;
+	
+	}
+	.c2 {
+		height: 50px;
+	
+	}
+	.c3 {
+		height: 50px;
+	
+	}
+	.c4 {
+		height: 50px;
+	
+	}
+	.c5 {
+		height: 50px;
+		
+	}
+	.c6 {
+		height: 50px;
+		
+	}
+	.c7 {
+		height: 50px;
+		
+	}
+	.c8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.c9 {
+		height: 50px;
+		
+	}
+	.c10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:570px) {
+	.c1 {
+		height: 40px;
+		
+	}
+	.c2 {
+		height: 40px;
+		
+	}
+	.c3 {
+		height: 40px;
+	
+	}
+	.c4 {
+		height: 40px;
+		
+	}
+	.c5 {
+		height: 40px;
+		
+	}
+	.c6 {
+		height: 40px;
+		
+	}
+	.c7 {
+		height: 40px;
+		
+	}
+	.c8 {
+		height: 40px;
+		right:5%;
+		
+	}
+	.c9 {
+		height: 40px;
+		
+	}
+	.c10 {
+		height: 40px;
+		
+	}
+}
+
+@media only screen and (max-width:400px) {
+	.c1 {
+		height: 40px;
+		
+	}
+	.c2 {
+		height: 40px;
+		left:2%;
+		
+	}
+	.c3 {
+		height: 40px;
+	
+	}
+	.c4 {
+		height: 40px;
+		
+	}
+	.c5 {
+		height: 40px;
+		
+	}
+	.c6 {
+		height: 40px;
+		
+	}
+	.c7 {
+		height: 40px;
+		
+	}
+	.c8 {
+		height: 40px;
+		right:2%;
+		
+	}
+	.c9 {
+		height: 40px;
+		
+	}
+	.c10 {
+		height: 40px;
+		
+	}
+}
+
+
+/*classes for mech*/
+
+.m1 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom: 3%;
+	left: 2%;
+}
+
+.m2 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top: 50%;
+	left:7%;
+}
+
+.m3 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:5%;
+	right:25%;
+}
+
+.m4 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:10%;
+	right:5%;
+}
+
+.m5 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:12%;
+	left:5%;
+}
+
+.m6 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	right:7%;
+}
+
+.m7 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:24%;
+	left:17%;
+}
+
+.m8 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:45%;
+	right:15%;
+}
+
+.m9 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:14%;
+	right:25%;
+}
+
+.m10 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fademech;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	left:25%;
+}
+
+@media only screen and (max-width:1380px) {
+	.m1 {
+		height: 75px;
+			}
+	.m2 {
+		height: 75px;
+		
+	}
+	.m3 {
+		height: 75px;
+		
+	}
+	.m4 {
+		height: 75px;
+		
+	}
+	.m5 {
+		height: 75px;
+		
+	}
+	.m6 {
+		height: 75px;
+	
+	}
+	.m7 {
+		height: 75px;
+		
+	}
+	.m8 {
+		height: 75px;
+	
+	}
+	.m9 {
+		height: 75px;
+	
+	}
+	.m10 {
+		height: 75px;
+		
+	}
+}
+
+@media only screen and (max-width:1150px) {
+	.m1 {
+		height: 60px;
+	
+	}
+	.m2 {
+		height: 60px;
+	
+	}
+	.m3 {
+		height: 60px;
+		
+	}
+	.m4 {
+		height: 60px;
+		
+	}
+	.m5 {
+		height: 60px;
+	
+	}
+	.m6 {
+		height: 60px;
+		
+	}
+	.m7 {
+		height: 60px;
+		
+	}
+	.m8 {
+		height: 60px;
+		
+	}
+	.m9 {
+		height: 60px;
+		
+	}
+	.m10 {
+		height: 60px;
+	
+	}
+}
+
+@media only screen and (max-width:950px) {
+	.m1 {
+		height: 50px;
+
+	}
+	.m2 {
+	
+	}
+	.m5 {
+		height: 50px;
+	
+	}
+	.m3 {
+		height: 50px;
+	
+	}
+	.m4 {
+		height: 50px;
+		height: 50px;
+	
+	}
+	.m6 {
+		height: 50px;
+		
+	}
+	.m7 {
+		height: 50px;
+	
+	}
+	.m8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.m9 {
+		height: 50px;
+		
+	}
+	.m10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:780px) {
+	.m1 {
+		height: 50px;
+	
+	}
+	.m2 {
+		height: 50px;
+	
+	}
+	.m3 {
+		height: 50px;
+	
+	}
+	.m4 {
+		height: 50px;
+	
+	}
+	.m5 {
+		height: 50px;
+		
+	}
+	.m6 {
+		height: 50px;
+		
+	}
+	.m7 {
+		height: 50px;
+		
+	}
+	.m8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.m9 {
+		height: 50px;
+		
+	}
+	.m10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:650px) {
+	.m1 {
+		height: 50px;
+	
+	}
+	.m2 {
+		height: 50px;
+	
+	}
+	.m3 {
+		height: 50px;
+	
+	}
+	.m4 {
+		height: 50px;
+	
+	}
+	.m5 {
+		height: 50px;
+		
+	}
+	.m6 {
+		height: 50px;
+		
+	}
+	.m7 {
+		height: 50px;
+		
+	}
+	.m8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.m9 {
+		height: 50px;
+		
+	}
+	.m10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:570px) {
+	.m1 {
+		height: 40px;
+		
+	}
+	.m2 {
+		height: 40px;
+		
+	}
+	.m3 {
+		height: 40px;
+	
+	}
+	.m4 {
+		height: 40px;
+		
+	}
+	.m5 {
+		height: 40px;
+		
+	}
+	.m6 {
+		height: 40px;
+		
+	}
+	.m7 {
+		height: 40px;
+		
+	}
+	.m8 {
+		height: 40px;
+		right:5%;
+		
+	}
+	.m9 {
+		height: 40px;
+		
+	}
+	.m10 {
+		height: 40px;
+		
+	}
+}
+
+@media only screen and (max-width:400px) {
+	.m1 {
+		height: 40px;
+		
+	}
+	.m2 {
+		height: 40px;
+		left:2%;
+		
+	}
+	.m3 {
+		height: 40px;
+	
+	}
+	.m4 {
+		height: 40px;
+		
+	}
+	.m5 {
+		height: 40px;
+		
+	}
+	.m6 {
+		height: 40px;
+		
+	}
+	.m7 {
+		height: 40px;
+		
+	}
+	.m8 {
+		height: 40px;
+		right:2%;
+		
+	}
+	.m9 {
+		height: 40px;
+		
+	}
+	.m10 {
+		height: 40px;
+		
+	}
+}
+
+
+
+
+/*classes for civil*/
+
+.v1 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom: 3%;
+	left: 2%;
+}
+
+.v2 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top: 50%;
+	left:7%;
+}
+
+.v3 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:5%;
+	right:25%;
+}
+
+.v4 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:10%;
+	right:5%;
+}
+
+.v5 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:12%;
+	left:5%;
+}
+
+.v6 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	right:7%;
+}
+
+.v7 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:24%;
+	left:17%;
+}
+
+.v8 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:45%;
+	right:15%;
+}
+
+.v9 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:14%;
+	right:25%;
+}
+
+.v10 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadecivil;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	left:25%;
+}
+
+@media only screen and (max-width:1380px) {
+	.v1 {
+		height: 75px;
+			}
+	.v2 {
+		height: 75px;
+		
+	}
+	.v3 {
+		height: 75px;
+		
+	}
+	.v4 {
+		height: 75px;
+		
+	}
+	.v5 {
+		height: 75px;
+		
+	}
+	.v6 {
+		height: 75px;
+	
+	}
+	.v7 {
+		height: 75px;
+		
+	}
+	.v8 {
+		height: 75px;
+	
+	}
+	.v9 {
+		height: 75px;
+	
+	}
+	.v10 {
+		height: 75px;
+		
+	}
+}
+
+@media only screen and (max-width:1150px) {
+	.v1 {
+		height: 60px;
+	
+	}
+	.v2 {
+		height: 60px;
+	
+	}
+	.v3 {
+		height: 60px;
+		
+	}
+	.v4 {
+		height: 60px;
+		
+	}
+	.v5 {
+		height: 60px;
+	
+	}
+	.v6 {
+		height: 60px;
+		
+	}
+	.v7 {
+		height: 60px;
+		
+	}
+	.v8 {
+		height: 60px;
+		
+	}
+	.v9 {
+		height: 60px;
+		
+	}
+	.v10 {
+		height: 60px;
+	
+	}
+}
+
+@media only screen and (max-width:950px) {
+	.v1 {
+		height: 50px;
+
+	}
+	.v2 {
+		height: 50px;
+	
+	}
+	.v3 {
+		height: 50px;
+	
+	}
+	.v4 {
+		height: 50px;
+	
+	}
+	.v5 {
+		height: 50px;
+	
+	}
+	.v6 {
+		height: 50px;
+		
+	}
+	.v7 {
+		height: 50px;
+	
+	}
+	.v8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.v9 {
+		height: 50px;
+		
+	}
+	.v10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:780px) {
+	.v1 {
+		height: 50px;
+	
+	}
+	.v2 {
+		height: 50px;
+	
+	}
+	.v3 {
+		height: 50px;
+	
+	}
+	.v4 {
+		height: 50px;
+	
+	}
+	.v5 {
+		height: 50px;
+		
+	}
+	.v6 {
+		height: 50px;
+		
+	}
+	.v7 {
+		height: 50px;
+		
+	}
+	.v8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.v9 {
+		height: 50px;
+		
+	}
+	.v10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:650px) {
+	.v1 {
+		height: 50px;
+	
+	}
+	.v2 {
+		height: 50px;
+	
+	}
+	.v3 {
+		height: 50px;
+	
+	}
+	.v4 {
+		height: 50px;
+	
+	}
+	.v5 {
+		height: 50px;
+		
+	}
+	.v6 {
+		height: 50px;
+		
+	}
+	.v7 {
+		height: 50px;
+		
+	}
+	.v8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.v9 {
+		height: 50px;
+		
+	}
+	.v10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:570px) {
+	.v1 {
+		height: 40px;
+		
+	}
+	.v2 {
+		height: 40px;
+		
+	}
+	.v3 {
+		height: 40px;
+	
+	}
+	.v4 {
+		height: 40px;
+		
+	}
+	.v5 {
+		height: 40px;
+		
+	}
+	.v6 {
+		height: 40px;
+		
+	}
+	.v7 {
+		height: 40px;
+		
+	}
+	.v8 {
+		height: 40px;
+		right:5%;
+		
+	}
+	.v9 {
+		height: 40px;
+		
+	}
+	.v10 {
+		height: 40px;
+		
+	}
+}
+
+@media only screen and (max-width:400px) {
+	.v1 {
+		height: 40px;
+		
+	}
+	.v2 {
+		height: 40px;
+		left:2%;
+		
+	}
+	.v3 {
+		height: 40px;
+	
+	}
+	.v4 {
+		height: 40px;
+		
+	}
+	.v5 {
+		height: 40px;
+		
+	}
+	.v6 {
+		height: 40px;
+		
+	}
+	.v7 {
+		height: 40px;
+		
+	}
+	.v8 {
+		height: 40px;
+		right:2%;
+		
+	}
+	.v9 {
+		height: 40px;
+		
+	}
+	.v10 {
+		height: 40px;
+		
+	}
+}
+
+
+
+/*classes for electric*/
+
+.e1 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom: 3%;
+	left: 2%;
+}
+
+.e2 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top: 50%;
+	left:7%;
+}
+
+.e3 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:5%;
+	right:25%;
+}
+
+
+.e4 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:10%;
+	right:5%;
+}
+
+.e5 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:12%;
+	left:5%;
+}
+
+.e6 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	right:7%;
+}
+
+.e7 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:24%;
+	left:17%;
+}
+
+.e8 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:45%;
+	right:15%;
+}
+
+.e9 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	top:14%;
+	right:25%;
+}
+
+.e10 {
+	filter: drop-shadow(1px 1px 7px lightskyblue);
+	height: 90px;
+	animation-name: fadeele;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	object-fit: contain;
+	position: fixed;
+	bottom:24%;
+	left:25%;
+}
+
+@media only screen and (max-width:1380px) {
+	.e1 {
+		height: 75px;
+			}
+	.e2 {
+		height: 75px;
+		
+	}
+	.e3 {
+		height: 75px;
+		
+	}
+	.e4 {
+		height: 75px;
+		
+	}
+	.e5 {
+		height: 75px;
+		
+	}
+	.e6 {
+		height: 75px;
+	
+	}
+	.e7 {
+		height: 75px;
+		
+	}
+	.e8 {
+		height: 75px;
+	
+	}
+	.e9 {
+		height: 75px;
+	
+	}
+	.e10 {
+		height: 75px;
+		
+	}
+}
+
+@media only screen and (max-width:1150px) {
+	.e1 {
+		height: 60px;
+	
+	}
+	.e2 {
+		height: 60px;
+	
+	}
+	.e3 {
+		height: 60px;
+		
+	}
+	.e4 {
+		height: 60px;
+		
+	}
+	.e5 {
+		height: 60px;
+	
+	}
+	.e6 {
+		height: 60px;
+		
+	}
+	.e7 {
+		height: 60px;
+		
+	}
+	.e8 {
+		height: 60px;
+		
+	}
+	.e9 {
+		height: 60px;
+		
+	}
+	.e10 {
+		height: 60px;
+	
+	}
+}
+
+@media only screen and (max-width:950px) {
+	.e1 {
+		height: 50px;
+
+	}
+	.e2 {
+		height: 50px;
+	
+	}
+	.e3 {
+		height: 50px;
+	
+	}
+	.e4 {
+		height: 50px;
+	
+	}
+	.e5 {
+		height: 50px;
+	
+	}
+	.e6 {
+		height: 50px;
+		
+	}
+	.e7 {
+		height: 50px;
+	
+	}
+	.e8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.e9 {
+		height: 50px;
+		
+	}
+	.e10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:780px) {
+	.e1 {
+		height: 50px;
+	
+	}
+	.e2 {
+		height: 50px;
+	
+	}
+	.e3 {
+		height: 50px;
+	
+	}
+	.e4 {
+		height: 50px;
+	
+	}
+	.e5 {
+		height: 50px;
+		
+	}
+	.e6 {
+		height: 50px;
+		
+	}
+	.e7 {
+		height: 50px;
+		
+	}
+	.e8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.e9 {
+		height: 50px;
+		
+	}
+	.e10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:650px) {
+	.e1 {
+		height: 50px;
+	
+	}
+	.e2 {
+		height: 50px;
+	
+	}
+	.e3 {
+		height: 50px;
+	
+	}
+	.e4 {
+		height: 50px;
+	
+	}
+	.e5 {
+		height: 50px;
+		
+	}
+	.e6 {
+		height: 50px;
+		
+	}
+	.e7 {
+		height: 50px;
+		
+	}
+	.e8 {
+		height: 50px;
+		right:5%;
+		
+	}
+	.e9 {
+		height: 50px;
+		
+	}
+	.e10 {
+		height: 50px;
+		bottom:15%;
+	
+	}
+}
+
+@media only screen and (max-width:570px) {
+	.e1 {
+		height: 40px;
+		
+	}
+	.e2 {
+		height: 40px;
+		
+	}
+	.e3 {
+		height: 40px;
+	
+	}
+	.e4 {
+		height: 40px;
+		
+	}
+	.e5 {
+		height: 40px;
+		
+	}
+	.e6 {
+		height: 40px;
+		
+	}
+	.e7 {
+		height: 40px;
+		
+	}
+	.e8 {
+		height: 40px;
+		right:5%;
+		
+	}
+	.e9 {
+		height: 40px;
+		
+	}
+	.e10 {
+		height: 40px;
+		
+	}
+}
+
+@media only screen and (max-width:400px) {
+	.e1 {
+		height: 40px;
+		
+	}
+	.e2 {
+		height: 40px;
+		left:2%;
+		
+	}
+	.e3 {
+		height: 40px;
+	
+	}
+	.e4 {
+		height: 40px;
+		
+	}
+	.e5 {
+		height: 40px;
+		
+	}
+	.e6 {
+		height: 40px;
+		
+	}
+	.e7 {
+		height: 40px;
+		
+	}
+	.e8 {
+		height: 40px;
+		right:2%;
+		
+	}
+	.e9 {
+		height: 40px;
+		
+	}
+	.e10 {
+		height: 40px;
+		
+	}
+}
+
+
+
+@keyframes fadecom {
+	0% {
+		opacity: 1;
+		filter: hue-rotate(0deg);
+	}
+	5% {
+		transform: rotate(720deg);
+		filter: hue-rotate(0deg);
+	}
+	23% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(0deg);
+	}
+	24% {
+		opacity: 0;
+		filter: hue-rotate(0deg);
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+@keyframes fademech {
+	0% {
+		opacity: 0;
+	}
+	25% {
+		opacity: 0;
+	}
+	26% {
+		opacity: 1;
+		transform: rotate(0deg);
+	}
+	30% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(90deg);
+	}
+	48% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(90deg);
+	}
+	49% {
+		opacity: 0;
+		filter: hue-rotate(90deg);
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+@keyframes fadecivil {
+
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 0;
+	}
+	51% {
+		opacity: 1;
+		transform: rotate(0deg);
+	}
+	51% {
+		filter: hue-rotate(200deg);
+	}
+	55% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(200deg);
+	}
+	73% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(200deg);
+	}
+	74% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+@keyframes fadeele {
+	0% {
+		opacity: 0;
+	}
+	75% {
+		opacity: 0;
+	}
+	76% {
+		opacity: 1;
+		transform: rotate(0deg);
+		filter: hue-rotate(270deg);
+	}
+	80% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(270deg);
+	}
+
+	99% {
+		opacity: 1;
+		transform: rotate(720deg);
+		filter: hue-rotate(270deg);
+	}
+		100% {
+		opacity: 0;
+	}
+}

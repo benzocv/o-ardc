@@ -1,0 +1,62 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.bg1, .bg2, .bg3 {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bg1 {
+  background-image: url("background/9.jpg");
+  min-height: 100%;
+}
+
+.bg2 {
+  background-image: url("background/10.jpg");
+  min-height: 400px;
+}
+
+.bg3 {
+  background-image: url("background/9.jpg");
+  min-height: 400px;
+}
+
+.caption {
+  position: absolute;
+  left: 20%;
+  top: 0%;
+  width: 100%;
+  text-align: center;
+  
+font-family: Virtual DJ;
+color: gold;
+font-size: 60px;
+}
+
+.caption:hover
+{
+color: white;
+}
+
+
+h2 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}

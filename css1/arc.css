@@ -1,0 +1,202 @@
+.box
+{
+top:8%;
+position:fixed;
+z-index: -1;
+
+}
+.right {
+	position: fixed;
+	animation-name: right;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	-webkit-animation-name: right;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-duration: 20s;
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	top: 50;
+	z-index: 3;
+}
+
+.left {
+	position: fixed;
+	animation-name: left;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+-webkit-animation-name: left;
+-webkit-animation-timing-function: linear;
+-webkit-animation-duration: 20s;
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	top: 50;
+	z-index: 10;
+}
+
+.top {
+	position: fixed;
+	animation-name: top;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+-webkit-animation-name: top;
+-webkit-animation-timing-function: linear;
+-webkit-animation-duration: 20s;
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	top: 50;
+    z-index:0;
+	filter: drop-shadow(10px 10px 100px lightskyblue);
+}
+
+@keyframes right {
+	0% {
+		transform: rotate(0deg);
+		filter: hue-rotate(0deg);
+	}
+	5% {
+		transform: rotate(270deg);
+	}
+	24% {
+		filter: hue-rotate(0deg);
+	}
+	25% {
+		transform: rotate(630deg);
+		filter: hue-rotate(0deg);
+	}
+	26% {
+		filter: hue-rotate(90deg);
+	}
+	30% {
+		transform: rotate(900deg);
+		filter: hue-rotate(90deg);
+	}
+	50% {
+		transform: rotate(1260deg);
+		filter: hue-rotate(90deg);
+	}
+	51% {
+		filter: hue-rotate(200deg);
+	}
+	55% {
+		transform: rotate(1530deg);
+		filter: hue-rotate(200deg);
+	}
+	75% {
+		transform: rotate(1890deg);
+		filter: hue-rotate(200deg);
+	}
+	76% {
+		filter: hue-rotate(270deg);
+	}
+	80% {
+		transform: rotate(2160deg);
+		filter: hue-rotate(270deg);
+	}
+	100% {
+		transform: rotate(2520deg);
+		filter: hue-rotate(270deg);
+	}
+}
+
+@keyframes left {
+	0% {
+		transform: rotate(-0deg);
+		filter: hue-rotate(0deg);
+	}
+	5% {
+		transform: rotate(-270deg);
+	}
+	24% {
+		filter: hue-rotate(0deg);
+	}
+	25% {
+		transform: rotate(-630deg);
+		filter: hue-rotate(0deg);
+	}
+	26% {
+		filter: hue-rotate(90deg);
+	}
+	30% {
+		transform: rotate(-900deg);
+		filter: hue-rotate(90deg);
+	}
+	50% {
+		transform: rotate(-1260deg);
+		filter: hue-rotate(90deg);
+	}
+	51% {
+		filter: hue-rotate(200deg);
+	}
+	55% {
+		transform: rotate(-1530deg);
+		filter: hue-rotate(200deg);
+	}
+	75% {
+		transform: rotate(-1890deg);
+		filter: hue-rotate(200deg);
+	}
+	76% {
+		filter: hue-rotate(270deg);
+	}
+	80% {
+		transform: rotate(-2160deg);
+		filter: hue-rotate(270deg);
+	}
+	100% {
+		transform: rotate(-2520deg);
+		filter: hue-rotate(270deg);
+	}
+}
+
+@keyframes top {
+	0% {
+		transform: rotate(-180deg);
+		filter: hue-rotate(0deg);
+	}
+	5% {
+		transform: rotate(-90deg);
+	}
+	25% {
+		transform: rotate(-90deg);
+		filter: hue-rotate(0deg);
+	}
+	26% {
+		filter: hue-rotate(90deg);
+	}
+	30% {
+		transform: rotate(0deg);
+		filter: hue-rotate(90deg);
+	}
+	50% {
+		transform: rotate(0deg);
+		filter: hue-rotate(90deg);
+	}
+	51% {
+		filter: hue-rotate(200deg);
+	}
+	55% {
+		transform: rotate(90deg);
+		filter: hue-rotate(200deg);
+	}
+	75% {
+		transform: rotate(90deg);
+		filter: hue-rotate(200deg);
+	}
+	76% {
+		filter: hue-rotate(270deg);
+	}
+	80% {
+		transform: rotate(180deg);
+		filter: hue-rotate(270deg);
+	}
+	100% {
+		transform: rotate(180deg);
+		filter: hue-rotate(270deg);
+	}
+}

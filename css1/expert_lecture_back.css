@@ -1,0 +1,37 @@
+
+
+.bg1, .bg2, .bg3 {
+  
+  opacity:1;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bg1 {
+  background-image: url("../background/cssbackimg/back_new28.png");
+  min-height: 1000px;
+}
+
+.bg2 {
+  background-image: url("../background/cssbackimg/back_new29.png");
+  min-height: 500px;
+}
+
+
+
+
+
+
+
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+
+ .carousel-inner img {
+      width: 900px;
+      height:350px;
+  }

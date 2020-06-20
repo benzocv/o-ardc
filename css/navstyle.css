@@ -1,0 +1,48 @@
+			  	.navtext1{
+					font-size:19px; font-weight:bold; color:white;
+					}
+				.navtext1:hover
+				{
+					opacity:0.8;
+				}
+				.navtext2{
+					font-size:17px; font-weight:bold; color:white;
+				}
+				.dropdown-menu >  a:hover {
+   background-color:rgba(192,192,192,0.3);
+}
+				body{
+					background:black;
+					}
+.logo
+{
+width:150px;
+left:50%;
+top:0%;
+margin-left:-75px;
+position:absolute;
+z-index:30;
+}
+.sicon{
+	color:grey;
+	}
+.sicon:hover{
+	color:white;
+	cursor:pointer;
+	}
+.sicontop{
+	top:50%;
+	margin-top:-75px;
+	position:fixed;
+	height:150px;
+	}
+
+@media screen and (max-width: 900px) {
+.logo {
+height:100px;
+width:150px;
+z-index:1000;
+margin-left:-75px;
+}
+
+}

@@ -1,0 +1,509 @@
+.topArc{
+  width: 80vw;
+  position: fixed;
+}
+.topArc {
+  z-index: 1;
+  height: 50vh;
+  left: calc(50% - 50vw);
+  top: calc(50% - 30vh);
+}
+
+
+.clock {
+  animation-name: clock;
+  animation-duration: 16s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  -moz-animation-name: clock;
+  -moz-animation-duration: 16s;
+  -moz-animation-timing-function: linear;
+  -moz-animation-iteration-count: infinite;
+  -webkit-animation-name: clock;
+  -webkit-animation-duration: 16s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+}
+
+@keyframes clock {
+  0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  25% {
+    transform: rotate(90deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  50% {
+    transform: rotate(240deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  75% {
+    transform: rotate(360deg);
+    filter: hue-rotate(360deg);
+  }
+
+  100% {
+    transform: rotate(480deg);
+    filter: hue-rotate(0deg);
+  }
+}
+  
+@-moz-keyframes clock {
+   0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+ 5% {
+    transform: rotate(90);
+    filter: hue-rotate(0);
+  }
+
+  25% {
+    transform: rotate(180deg);
+    filter: hue-rotate(0);
+  }
+ 30% {
+    transform: rotate(270deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  50% {
+    transform: rotate(360deg);
+    filter: hue-rotate(-115deg);
+  }
+ 55% {
+    transform: rotate(450deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  75% {
+    transform: rotate(540deg);
+    filter: hue-rotate(-45deg);
+  }
+ 80% {
+    transform: rotate(630deg);
+    filter: hue-rotate(60deg);
+  }
+
+  100% {
+    transform: rotate(720deg);
+    filter: hue-rotate(60deg);
+  }
+}
+
+@-webkit-keyframes clock {
+  0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  26% {
+    transform: rotate(120deg);
+    filter: hue-rotate(0);
+  }
+
+  33.2% {
+    transform: rotate(240deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  60% {
+    transform: rotate(360deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  66.6% {
+    transform: rotate(480deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  93.2% {
+    transform: rotate(600deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  100% {
+    transform: rotate(720deg);
+    filter: hue-rotate(0);
+  }
+}
+
+.anticlock {
+  animation-name: anticlock;
+  animation-duration: 16s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  -webkit-animation-name: anticlock;
+  -webkit-animation-duration: 16s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@keyframes anticlock {
+ 
+ 0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  25% {
+    transform: rotate(120deg);
+    filter: hue-rotate(0);
+  }
+
+  50% {
+    transform: rotate(240deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  75% {
+    transform: rotate(360deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  100% {
+    transform: rotate(480deg);
+    filter: hue-rotate(-45deg);
+  }
+}
+
+@-moz-keyframes anticlock {
+ 
+    0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+ 5% {
+    transform: rotate(720deg);
+    filter: hue-rotate(0);
+  }
+
+  25% {
+    transform: rotate(630deg);
+    filter: hue-rotate(0);
+  }
+ 30% {
+    transform: rotate(540deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  50% {
+    transform: rotate(450deg);
+    filter: hue-rotate(-115deg);
+  }
+ 55% {
+    transform: rotate(450deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  75% {
+    transform: rotate(360deg);
+    filter: hue-rotate(-45deg);
+  }
+ 80% {
+    transform: rotate(270deg);
+    filter: hue-rotate(45deg);
+  }
+
+  100% {
+    transform: rotate(180deg);
+    filter: hue-rotate(45deg);
+  }
+}
+
+@-webkit-keyframes anticlock {
+  0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  26% {
+    transform: rotate(-120deg);
+    filter: hue-rotate(0);
+  }
+
+  33.2% {
+    transform: rotate(-240deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  60% {
+    transform: rotate(-360deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  66.6% {
+    transform: rotate(-480deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  93.2% {
+    transform: rotate(-600deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  100% {
+    transform: rotate(-720deg);
+    filter: hue-rotate(0);
+  }
+}
+.timtim_one {
+  opacity: 1;
+  animation: timtim_one 16s linear;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes timtim_one {
+  0%,25% {
+    opacity: 1;
+  }
+
+  26%,99% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes timtim_one {
+  0%,26% {
+    opacity: 1;
+  }
+
+  30%,96.2% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes timtim_one {
+  0%,26% {
+    opacity: 1;
+  }
+
+  30%,96.2% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.timtim_two {
+  opacity: 0;
+  animation: timtim_two 14s linear;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes timtim_two {
+  0%,29.8% {
+    opacity: 0;
+  }
+
+  33.2%,61% {
+    opacity: 1;
+  }
+
+  100%,63%,63.1% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes timtim_two {
+  0%,29.8% {
+    opacity: 0;
+  }
+
+  33.2%,61% {
+    opacity: 1;
+  }
+
+  100%,63%,63.1% {
+    opacity: 0;
+  }
+}
+
+@-moz-keyframes timtim_two {
+  0%,29.8% {
+    opacity: 0;
+  }
+
+  33.2%,61% {
+    opacity: 1;
+  }
+
+  100%,63%,63.1% {
+    opacity: 0;
+  }
+}
+
+.timtim_three {
+  opacity: 0;
+  animation: timtim_three 14s linear;
+  -webkit-animation: timtim_three 14s linear;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes timtim_three {
+  0%,62.8% {
+    opacity: 0;
+  }
+
+  66.6%,93.2% {
+    opacity: 1;
+  }
+
+  100%,96% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes timtim_three {
+  0%,62.8% {
+    opacity: 0;
+  }
+
+  66.6%,93.2% {
+    opacity: 1;
+  }
+
+  100%,96% {
+    opacity: 0;
+  }
+}
+
+@-moz-keyframes timtim_three {
+  0%,62.8% {
+    opacity: 0;
+  }
+
+  66.6%,93.2% {
+    opacity: 1;
+  }
+
+  100%,96% {
+    opacity: 0;
+  }
+}
+
+.autoRotate {
+  animation: ringrotate 16s ease-in;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  -webkit-animation: ringrotate 16s ease-in;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation: ringrotate 16s ease-in;
+  -moz-animation-fill-mode: forwards;
+  -moz-animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+}
+
+@keyframes ringrotate {
+  0% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  25%{
+    transform: rotate(90deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  50%{
+    transform: rotate(90deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  75% {
+    transform: rotate(90deg);
+    filter: hue-rotate(60deg);
+  }
+ 100% {
+    transform: rotate(90deg);
+    filter: hue-rotate(0);
+  }
+}
+
+@-webkit-keyframes ringrotate {
+  0%,26% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  33.2%,60% {
+    transform: rotate(120deg);
+    filter: hue-rotate(-115deg);
+  }
+
+  66.6%,93.2% {
+    transform: rotate(240deg);
+    filter: hue-rotate(-45deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+    filter: hue-rotate(0);
+  }
+}
+
+@-moz-keyframes ringrotate {
+  0%,5% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+5%,25% {
+    transform: rotate(0);
+    filter: hue-rotate(0);
+  }
+
+  25%,30% {
+    transform: rotate(90deg);
+    filter: hue-rotate(-115deg);
+  }
+ 30%,50% {
+    transform: rotate(90deg);
+    filter: hue-rotate(-115deg);
+  }
+
+
+  50%,55% {
+    transform: rotate(180deg);
+    filter: hue-rotate(-45deg);
+  }
+ 55%,75% {
+    transform: rotate(180deg);
+    filter: hue-rotate(-45deg);
+  }
+75%,80% {
+    transform: rotate(270deg);
+    filter: hue-rotate(60deg);
+  }
+
+ 80%,99% {
+    transform: rotate(270deg);
+    filter: hue-rotate(60deg);
+  }
+100%
+{
+transform: rotate(0);
+filter: hue-rotate(0);
+}
+ 
+}
+
